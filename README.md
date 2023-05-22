@@ -1,1 +1,1 @@
-# math_201_202
+# MATH 201/202 Material Repository
